@@ -1,0 +1,79 @@
+.btn-outline-success{
+    color: chocolate;
+    border-color: chocolate;
+}
+
+.btn-outline-success:hover{
+    color: white;
+    background-color: chocolate;
+    border-color: chocolate;
+}
+
+.carousel-item{
+    height: 700px;
+}
+
+.main-text{
+    text-align: center;
+    margin: 20px 0px;
+}
+
+.main-text2{
+    padding: 20px 0px;
+}
+
+.main-button{
+    background-color: black;
+    border-color: black;
+}
+
+.main-button:hover{
+    background-color: black;
+    border-color: black;
+}
+
+.d-block{
+    height: 100%;
+}
+
+.carousel-button{
+    background-color: black;
+}
+
+.card-container{
+    display: flex;
+    justify-content: center;
+    margin: 40px 0px
+}
+
+footer{
+    background-color: black;
+    height: 271px;
+}
+
+.footer-first{
+    color: white;
+    font-size: 14px;
+    padding: 48px;
+}
+
+.footer-second{
+    color: white;
+    
+}
+
+.footer-a{
+    text-decoration: none;
+    color: white;
+
+}
+
+.card:hover{
+    transform: scale(1.05);
+    transition: 0.5s ease-in-out;
+}
+
+.button{
+    color: black;
+    background-color: black;
+}
